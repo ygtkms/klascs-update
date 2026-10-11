@@ -1,20 +1,20 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "hostname": "https://raw.githubusercontent.com/ygtkms/klascs-update/main/files/",
   "files": [
     {
       "filename": "cs.exe",
-      "hash": "dc94061499ae46cefa24d4bfefbe1ee7",
-      "size": 2813440
+      "hash": "47ef242ac41eb224b26c64e2c8c87ca3",
+      "size": 2814464
     },
     {
       "filename": "cstrike/cl_dlls/client_mini.dll",
-      "hash": "452b72f1172ee5305913e02686c2655f",
+      "hash": "24f636da205fadedad376f2139f0a3fd",
       "size": 307712
     },
     {
       "filename": "cstrike/cl_dlls/GameUI.dll",
-      "hash": "ae513bb357a5aa4b3bdc6c5cfad808f4",
+      "hash": "0bbce0979cbf88d01591c4c62e72a7a4",
       "size": 2193408
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "filename": "cstrike/resource/cstrike_turkish.txt",
-      "hash": "647a9d4d1a7b067196085eb4c134d94c",
+      "hash": "57d82af029ad5c74c2554022ab9307a5",
       "size": 164770
     },
     {
@@ -249,22 +249,22 @@
     },
     {
       "filename": "FileSystem_Proxy.dll",
-      "hash": "382799acef43ee28fa2be211b3a5e529",
+      "hash": "cf1fa7f9465940883da554c4592dadc5",
       "size": 133632
     },
     {
       "filename": "klascs_build.txt",
-      "hash": "5ae6fbcdc72e228f89aa5bd36faccedf",
+      "hash": "fe627038973c26cb9e7e12d2e2d10bc0",
       "size": 42
     },
     {
       "filename": "next_engine_mini.dll",
-      "hash": "ce3c39537c3777ddacc033cb59aa8e4b",
-      "size": 2352640
+      "hash": "db752e3deaf1f40c496785ca179b324d",
+      "size": 2354688
     },
     {
       "filename": "nitro_api2.dll",
-      "hash": "6b4a48f0f792fb7d3d866617a6847fd8",
+      "hash": "8e8aa9693c9fdd075b6e176f8681fc2a",
       "size": 3562496
     },
     {
@@ -1549,12 +1549,12 @@
     },
     {
       "filename": "steam_api.dll",
-      "hash": "5a14a68baa6477bea51752b3e4c33ca0",
+      "hash": "da7af20f6d1ccb8beded27d817394eef",
       "size": 99328
     },
     {
       "filename": "vgui2.dll",
-      "hash": "6e6a3128e0dc456f7adb232e909967b0",
+      "hash": "4135897311d2ced645e0bad607b9e599",
       "size": 388096
     }
   ]
