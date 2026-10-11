@@ -1,20 +1,20 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "hostname": "https://raw.githubusercontent.com/ygtkms/klascs-update/main/files/",
   "files": [
     {
       "filename": "cs.exe",
-      "hash": "7d7726b7ce634f02f78063f0cb288a1d",
-      "size": 2807808
+      "hash": "0e0827bb0da8fa46a47b913f9aeef2d8",
+      "size": 2810368
     },
     {
       "filename": "cstrike/cl_dlls/client_mini.dll",
-      "hash": "5f394f1824310174f108c0e23a4cc38b",
+      "hash": "70ca165cec38b7f223efd7edf95ef5f8",
       "size": 307712
     },
     {
       "filename": "cstrike/cl_dlls/GameUI.dll",
-      "hash": "3719b363e319967d927630663a264f98",
+      "hash": "92e6011e4ae05811c05ab3223f5d5d6c",
       "size": 2193408
     },
     {
@@ -249,22 +249,22 @@
     },
     {
       "filename": "FileSystem_Proxy.dll",
-      "hash": "e6df148140b7c9788f091d1bfbea06f4",
+      "hash": "b8c297f5901d8c95fc92bf54e3fd6ff9",
       "size": 133632
     },
     {
       "filename": "klascs_build.txt",
-      "hash": "4332f367499ca282e7a1afcf48850f3d",
+      "hash": "3d40fc7e876f1b14f85b357ef1007c4d",
       "size": 42
     },
     {
       "filename": "next_engine_mini.dll",
-      "hash": "c6c9542308397ebe5cf7dff256832d6c",
-      "size": 2293248
+      "hash": "30cbde4b637b51952dbb93cad787bd4c",
+      "size": 2307072
     },
     {
       "filename": "nitro_api2.dll",
-      "hash": "910dfd660e2c5d70fa55905d7acf222e",
+      "hash": "b06134da78b3867a98b82f445275446a",
       "size": 3562496
     },
     {
@@ -279,8 +279,8 @@
     },
     {
       "filename": "platform/defaults/MasterServer.vdf",
-      "hash": "001228dac690454206ceda00391408c1",
-      "size": 448
+      "hash": "4448743dcc45aae0b4ccb7b35e2ecade",
+      "size": 298
     },
     {
       "filename": "platform/resource/platform_turkish.txt",
@@ -1549,17 +1549,12 @@
     },
     {
       "filename": "steam_api.dll",
-      "hash": "1dedd1b8fc91d799b67180fb8212eb1d",
+      "hash": "80594e64b433e9cfa4547d6b3dcb9153",
       "size": 99328
     },
     {
-      "filename": "steam_api_orig.dll",
-      "hash": "cc3d1ca6401e2ab106733c7bd7489cad",
-      "size": 103920
-    },
-    {
       "filename": "vgui2.dll",
-      "hash": "9df917de88457f225ddda68b85ccadec",
+      "hash": "0950b3532267302c469557726941a28d",
       "size": 388096
     }
   ]

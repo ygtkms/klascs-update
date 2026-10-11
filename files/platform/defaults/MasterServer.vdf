@@ -4,13 +4,12 @@
 	"CacheServers"		"true"
 	"Servers"
 	{
-		"Steam"
+		// The internet list comes from Steam. This master is only asked when Steam returns nothing.
+		"Tsarvar"
 		{
-			"address"		"hl1master.steampowered.com:27011"
-			"site"		""
-			"region"		"0xFF" // all regions, see https://developer.valvesoftware.com/wiki/Master_Server_Query_Protocol#Region_codes
-			"QueryDelay"		"2500" // this ms is very sensitive to sending requests with small delays, so increased delays are used
-			"NextRequestDelay"		"2500"
+			"address"		"ms.tsarvar.com:27010"
+			"site"		"https://tsarvar.com/"
+			"region"		"0xFF"
 		}
 	}
 }
