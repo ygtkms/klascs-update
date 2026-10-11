@@ -1,0 +1,1566 @@
+{
+  "version": "1.0.0",
+  "hostname": "https://raw.githubusercontent.com/ygtkms/klascs-update/main/files/",
+  "files": [
+    {
+      "filename": "cs.exe",
+      "hash": "7d7726b7ce634f02f78063f0cb288a1d",
+      "size": 2807808
+    },
+    {
+      "filename": "cstrike/cl_dlls/client_mini.dll",
+      "hash": "5f394f1824310174f108c0e23a4cc38b",
+      "size": 307712
+    },
+    {
+      "filename": "cstrike/cl_dlls/GameUI.dll",
+      "hash": "3719b363e319967d927630663a264f98",
+      "size": 2193408
+    },
+    {
+      "filename": "cstrike/gfx/shell/kb_act.lst",
+      "hash": "2f86bc708e58183501517717bbe74e42",
+      "size": 2574
+    },
+    {
+      "filename": "cstrike/gfx/shell/kb_def.lst",
+      "hash": "c50eab5a02deca5de85f2a2b33760d6c",
+      "size": 1285
+    },
+    {
+      "filename": "cstrike/gfx/vgui2/800corner1.tga",
+      "hash": "bfbf7639948b5d31128b60a303392fe4",
+      "size": 300
+    },
+    {
+      "filename": "cstrike/gfx/vgui2/800corner2.tga",
+      "hash": "548b2c3f285bc4d5d974bb7bd3972480",
+      "size": 274
+    },
+    {
+      "filename": "cstrike/gfx/vgui2/800corner3.tga",
+      "hash": "9c727c93f0226a08231d95b917444dbd",
+      "size": 274
+    },
+    {
+      "filename": "cstrike/gfx/vgui2/800corner4.tga",
+      "hash": "a59468e3385c2cadf6e5e5ad69b2d8ab",
+      "size": 274
+    },
+    {
+      "filename": "cstrike/gfx/vgui2/800cornerborder1.tga",
+      "hash": "a1d152b0256dba27a1a92487c11f4048",
+      "size": 300
+    },
+    {
+      "filename": "cstrike/gfx/vgui2/800cornerborder2.tga",
+      "hash": "4e5848a061ffbbd58ca2612ce9201cc8",
+      "size": 300
+    },
+    {
+      "filename": "cstrike/gfx/vgui2/800cornerborder3.tga",
+      "hash": "957f2bb2902e1c08a0be2ac901ba876c",
+      "size": 300
+    },
+    {
+      "filename": "cstrike/gfx/vgui2/800cornerborder4.tga",
+      "hash": "209ce7e0561313134d0060ec33bd1ebe",
+      "size": 300
+    },
+    {
+      "filename": "cstrike/gfx/vgui2/800cornerborder_half1.tga",
+      "hash": "2fe28d8dbf63db0ed04b4184d3efefb3",
+      "size": 300
+    },
+    {
+      "filename": "cstrike/gfx/vgui2/800cornerborder_half2.tga",
+      "hash": "2676a726e48ff0655b388ff6f2587272",
+      "size": 300
+    },
+    {
+      "filename": "cstrike/gfx/vgui2/800cornerborder_half3.tga",
+      "hash": "6d9b97ea1d050abbf0baa99aa04e20c9",
+      "size": 300
+    },
+    {
+      "filename": "cstrike/gfx/vgui2/800cornerborder_half4.tga",
+      "hash": "dbb5479299d0623c5fcbefb6b02ec7d0",
+      "size": 300
+    },
+    {
+      "filename": "cstrike/resource/CreateMultiplayerGameBotPage.res",
+      "hash": "0207ad718cc5bbfefbfe619223834b0c",
+      "size": 7312
+    },
+    {
+      "filename": "cstrike/resource/CreateMultiplayerGameServerPage.res",
+      "hash": "bf41321a197a0ea899b050a5f8700430",
+      "size": 4754
+    },
+    {
+      "filename": "cstrike/resource/cstrike_turkish.txt",
+      "hash": "647a9d4d1a7b067196085eb4c134d94c",
+      "size": 164770
+    },
+    {
+      "filename": "cstrike/resource/fonts/DejaVuSans.ttf",
+      "hash": "be189a7e2711cdf2a7f6275c60cbc7e2",
+      "size": 757076
+    },
+    {
+      "filename": "cstrike/resource/GameMenu.res",
+      "hash": "b2d367f8605af64824c9e35494be2ae1",
+      "size": 870
+    },
+    {
+      "filename": "cstrike/resource/gameui_turkish.txt",
+      "hash": "4054d2250867a426fc21503cc10d399e",
+      "size": 25328
+    },
+    {
+      "filename": "cstrike/resource/klascs_english.txt",
+      "hash": "5204d2981ddcd447cdb2b5f4b88d3ddc",
+      "size": 390
+    },
+    {
+      "filename": "cstrike/resource/klascs_turkish.txt",
+      "hash": "591a633cb22a37f84d7b67a927cb3983",
+      "size": 392
+    },
+    {
+      "filename": "cstrike/resource/MultiplayerAdvancedDialog.res",
+      "hash": "b3e055e912c5a6851d9509b8b3321425",
+      "size": 8446
+    },
+    {
+      "filename": "cstrike/resource/nextclient_brazilian.txt",
+      "hash": "8d416bcfd20ad0ee86f3c77ff200bf89",
+      "size": 6058
+    },
+    {
+      "filename": "cstrike/resource/nextclient_english.txt",
+      "hash": "846d5725e216e305c7fe001f24e84ced",
+      "size": 13764
+    },
+    {
+      "filename": "cstrike/resource/nextclient_italian.txt",
+      "hash": "c06de396d64a031b1249beddf6a890f2",
+      "size": 6078
+    },
+    {
+      "filename": "cstrike/resource/nextclient_portuguese.txt",
+      "hash": "493b0af3d8d05b6d829d7d0c7ccfd957",
+      "size": 6042
+    },
+    {
+      "filename": "cstrike/resource/nextclient_russian.txt",
+      "hash": "f897318c27c048e8fc172b2045b4b931",
+      "size": 12704
+    },
+    {
+      "filename": "cstrike/resource/nextclient_spanish.txt",
+      "hash": "8e299c916bb4f0d8b762f95803f4047c",
+      "size": 6058
+    },
+    {
+      "filename": "cstrike/resource/nextclient_turkish.txt",
+      "hash": "1be0960685525aa33dcfbabd91a8f195",
+      "size": 11650
+    },
+    {
+      "filename": "cstrike/resource/nextclient_ukrainian.txt",
+      "hash": "97155c82fb8b5006b0736364ef8dd9e7",
+      "size": 6348
+    },
+    {
+      "filename": "cstrike/resource/OptionsSubKeyboard.res",
+      "hash": "5ab6b07d69b1f9305a0171d340b13d61",
+      "size": 1496
+    },
+    {
+      "filename": "cstrike/resource/OptionsSubMiscellaneous.res",
+      "hash": "727f104a5ea8b128fe1ed5f6a9ecfd54",
+      "size": 4071
+    },
+    {
+      "filename": "cstrike/resource/OptionsSubMouse.res",
+      "hash": "e1a2cad9da456477ec8fc5f223b1a19e",
+      "size": 6115
+    },
+    {
+      "filename": "cstrike/resource/OptionsSubMultiplayer.res",
+      "hash": "8870ddd86dc296bbd5efc748cbe9c8d2",
+      "size": 14980
+    },
+    {
+      "filename": "cstrike/resource/OptionsSubVideo.res",
+      "hash": "7d31ed1a8e37a146f396f763ed3706b9",
+      "size": 11360
+    },
+    {
+      "filename": "cstrike/resource/OptionsSubVoice.res",
+      "hash": "54ef73d55343def6b7d7b039699a93ea",
+      "size": 5656
+    },
+    {
+      "filename": "cstrike/resource/preview/corridor.obj",
+      "hash": "569a70b3b2042768c86e462dfd9fbaca",
+      "size": 2389
+    },
+    {
+      "filename": "cstrike/resource/schemes/TrackerScheme_ClassicPlus.res",
+      "hash": "7c8d676b611dec94084fe297953157ff",
+      "size": 19226
+    },
+    {
+      "filename": "cstrike/resource/schemes/TrackerScheme_ClassicPlusTahoma.res",
+      "hash": "17cb242763b1d194c97a900d6a79d25a",
+      "size": 19070
+    },
+    {
+      "filename": "cstrike/resource/schemes/TrackerScheme_KlasCS.res",
+      "hash": "3a1cd122a270deac96cdc07399f5810f",
+      "size": 19696
+    },
+    {
+      "filename": "cstrike/resource/schemes/TrackerScheme_Source.res",
+      "hash": "998562405754b7979387f149fad3bba9",
+      "size": 19521
+    },
+    {
+      "filename": "cstrike/resource/TrackerScheme.res",
+      "hash": "9b81fe6e7374a2d8d7fce1106808b50a",
+      "size": 18951
+    },
+    {
+      "filename": "cstrike/resource/valve_turkish.txt",
+      "hash": "0b52fea5ad34c4089e207727b92fbd53",
+      "size": 14852
+    },
+    {
+      "filename": "cstrike/resource/VideoAvancedDialog.res",
+      "hash": "aca00ceae3d0ebdc5fe81858e3fe0409",
+      "size": 8597
+    },
+    {
+      "filename": "cstrike/sprites/kill_rarity.spr",
+      "hash": "6831ec67cecbf3c9b5531fdc966e3816",
+      "size": 21726
+    },
+    {
+      "filename": "FileSystem_Proxy.dll",
+      "hash": "e6df148140b7c9788f091d1bfbea06f4",
+      "size": 133632
+    },
+    {
+      "filename": "klascs_build.txt",
+      "hash": "4332f367499ca282e7a1afcf48850f3d",
+      "size": 42
+    },
+    {
+      "filename": "next_engine_mini.dll",
+      "hash": "c6c9542308397ebe5cf7dff256832d6c",
+      "size": 2293248
+    },
+    {
+      "filename": "nitro_api2.dll",
+      "hash": "910dfd660e2c5d70fa55905d7acf222e",
+      "size": 3562496
+    },
+    {
+      "filename": "OptickCore.dll",
+      "hash": "b0f5107238654a4404fa8e6bcb4e8728",
+      "size": 134144
+    },
+    {
+      "filename": "platform/defaults/backend.json",
+      "hash": "e9a48fa57d63b476ad7bc1de23b7fb8a",
+      "size": 72
+    },
+    {
+      "filename": "platform/defaults/MasterServer.vdf",
+      "hash": "001228dac690454206ceda00391408c1",
+      "size": 448
+    },
+    {
+      "filename": "platform/resource/platform_turkish.txt",
+      "hash": "d5d3ac04e25d37175f80eb6a5e1a66d8",
+      "size": 754
+    },
+    {
+      "filename": "platform/resource/vgui_turkish.txt",
+      "hash": "293aaf86799487f31b1b1282df2078f8",
+      "size": 5614
+    },
+    {
+      "filename": "platform/servers/country_native_names.txt",
+      "hash": "6d8865c0eed1a6950fa4f5d332d8f11b",
+      "size": 5065
+    },
+    {
+      "filename": "platform/servers/flags/ad.tga",
+      "hash": "dc5bb416e6a70316a0c329cb352fd136",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ae.tga",
+      "hash": "f431894b7e33efa688b76eca959e8997",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/af.tga",
+      "hash": "bb322d55614d0fead74ecf9d4893bf51",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ag.tga",
+      "hash": "a55bf93484a6051712981e6ac5e08f1f",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ai.tga",
+      "hash": "55dca09fdb71fc81fe52afbc38272caf",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/al.tga",
+      "hash": "75fc479b85eb2c975602564a3622b888",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/am.tga",
+      "hash": "1f09f868263b2470ac1bb7726772ba4f",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/an.tga",
+      "hash": "0321abd3d5008dfaf49b27269ac33be7",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ao.tga",
+      "hash": "90f867e92f7927fd9b1b38f714b1f849",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ar.tga",
+      "hash": "7590f4dc145414f19311eed393428a35",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/as.tga",
+      "hash": "0177f0a2bec259a5e90cfd02ea280271",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/at.tga",
+      "hash": "66c62e29632778f0d4d063d9d1896c10",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/au.tga",
+      "hash": "4d18f9398fc0bd99e0cbc59c08cc3cbd",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/aw.tga",
+      "hash": "8f614d210a184503c858bfe6a5bb8e7a",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ax.tga",
+      "hash": "c3bacf248362e8e992b1733690c46372",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/az.tga",
+      "hash": "da3ff0e0932a0d7909f3d249cc181f87",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ba.tga",
+      "hash": "38a1d2965a2dcb88a26538f5e0c57fa6",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bb.tga",
+      "hash": "431b597a50e880c70297a845fe5a5e99",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bd.tga",
+      "hash": "7917818ae26cd44eb7d80662e6b4f060",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/be.tga",
+      "hash": "a18dcb0b4b1271495788fc0e31ce6001",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bf.tga",
+      "hash": "4a24da3f6ac581cdf29247f05bd5980f",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bg.tga",
+      "hash": "e3dde08cb1ab1845b3a9cab24b88d197",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bh.tga",
+      "hash": "f04ee4d0228b71b72b98b2f1534e3802",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bi.tga",
+      "hash": "e2616454343e485dd8764e75f9f0f2ab",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bj.tga",
+      "hash": "f8ab11768743f1a7604076b2b8da8f0e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bm.tga",
+      "hash": "615fa02df98bb3074695d06ee0db3e4e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bn.tga",
+      "hash": "6eda5929611db1b804927b7a0d765782",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bo.tga",
+      "hash": "f2eeb1bda1ff1a577c9004fd528418a7",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/br.tga",
+      "hash": "634b7b6cc9cdb00ef547aff87415f886",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bs.tga",
+      "hash": "21b4f6fed930333a3920823a0b6d133a",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bt.tga",
+      "hash": "4dfada595180b9aae9e9ebbdbc3074b9",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bv.tga",
+      "hash": "d2987fe8876cd385bee4435ef2f0da62",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bw.tga",
+      "hash": "f8d41ef0b31db5c4441edefd605f44d2",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/by.tga",
+      "hash": "7d0b068f06d6a05ddce9b4a13a16005c",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/bz.tga",
+      "hash": "a5c07e39c2736fb14d74f1f897aca8b2",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ca.tga",
+      "hash": "3f3581b37886d67920220c9974196405",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cc.tga",
+      "hash": "0fd9a368fe055571c34e9f375db8603a",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cd.tga",
+      "hash": "027fde2593d79de03bc572973a30cd75",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cf.tga",
+      "hash": "99cd4ec394474ea44686ddf759986d08",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cg.tga",
+      "hash": "deef85f3082cb91c0b649ddcc9f92206",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ch.tga",
+      "hash": "7bd65a42fa275cb098598a330fbb7a74",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ci.tga",
+      "hash": "dcc8a502b63c623ab5f0ec41a7c04a5b",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ck.tga",
+      "hash": "a2e720fedade9860e4cc25197cf75f1c",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cl.tga",
+      "hash": "b6960be1af172e6ab87e85eb41cea964",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cm.tga",
+      "hash": "3eb5e79507e3db518089d1201ad79200",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cn.tga",
+      "hash": "51815273847f639f550df9f5303bee12",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/co.tga",
+      "hash": "9b1e73e00c70fcb981c2ec407426b239",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cr.tga",
+      "hash": "1f6d0c7abe3a7b8fc9bb83f25f045fab",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cs.tga",
+      "hash": "784bd263b3e3395cc15b889e13acae1d",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cu.tga",
+      "hash": "470b5f00234b315136b4b504d0cd6a4e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cv.tga",
+      "hash": "1c574935fdc6c6af3827ba5dc8500afd",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cx.tga",
+      "hash": "985dda912f7fd14cdc6d8dfd604afc87",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cy.tga",
+      "hash": "2582fc704a46c7e97a72728ab15e0a41",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/cz.tga",
+      "hash": "989ce80e7dec247d6cd8faa3606f0c8a",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/de.tga",
+      "hash": "bcfdc780f019b6eba3ed09b7bad0480e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/dj.tga",
+      "hash": "3515345751074d7d1fdce788256b03cf",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/dk.tga",
+      "hash": "622f4d10bfcc58e39cb9e72dc7aabdac",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/dm.tga",
+      "hash": "dc8491ce4172d4837e2e599fd5668a40",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/do.tga",
+      "hash": "046434535734c3d5590b9b237c6b383a",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/dz.tga",
+      "hash": "8d302e0bed4b70a474dbd3e3bc586e2f",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ec.tga",
+      "hash": "ae33e7a03d5bfacd41cf50a68cc36fd6",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ee.tga",
+      "hash": "fa175f405d0f730e2a9005c103cf0194",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/eg.tga",
+      "hash": "9b402290a2ca6fc5a7cb707ee561ff3e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/eh.tga",
+      "hash": "6158058d0fbc918b369868dfff97dc79",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/er.tga",
+      "hash": "34cfabcc7a96ae7ad494a1c8345f96b2",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/es.tga",
+      "hash": "fe0b151c0609f275a6ea1e0b0a563664",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/et.tga",
+      "hash": "bf19c49aa956fa274d61c8c3efd60979",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/fi.tga",
+      "hash": "f3e5b8ab5648bd4dd0ffbcc4757d272c",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/fj.tga",
+      "hash": "fe9a70c5ea26b9b88f7881429bda4d0d",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/fk.tga",
+      "hash": "e448c0fbec72078b1985ec41945d8581",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/fm.tga",
+      "hash": "1b80b6ea50700b5ea883e950942c6da9",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/fo.tga",
+      "hash": "125649ec9697b0334e5b4114dafbaf31",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/fr.tga",
+      "hash": "ad4be3214e4ef8a11d4186ab8b954922",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ga.tga",
+      "hash": "cfab7ca3a1998baa46138103197c0482",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gb.tga",
+      "hash": "4704681142c66dfff87884eacfd62fa1",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gd.tga",
+      "hash": "32ad276e345b7a665ce83a880ba79fc2",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ge.tga",
+      "hash": "851805204a20e9ae8823388d43a9ebbf",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gf.tga",
+      "hash": "ad4be3214e4ef8a11d4186ab8b954922",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gg.tga",
+      "hash": "cfc0c96037d6d41b60f0c76aeee4c13e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gh.tga",
+      "hash": "f4b4b55102d64eac968209795ad58d60",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gi.tga",
+      "hash": "dddf21ed7f3759bcf4841a63e6ff0535",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gl.tga",
+      "hash": "6554093e7c366555c81e05c7937b696d",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gm.tga",
+      "hash": "997167f67e912b3f69415e103727771a",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gn.tga",
+      "hash": "5c478f69030a1452165a8a3e2efb9d65",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gp.tga",
+      "hash": "587f7bd449d8dad01bb4f87307b9c3f6",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gq.tga",
+      "hash": "afa613ba956d1fba2dd16d64b5911b22",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gr.tga",
+      "hash": "7dc86473d0dd0667eb3f1a0ff3549157",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gs.tga",
+      "hash": "34410718cd5ca81427e7dbb6071ba6f2",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gt.tga",
+      "hash": "2933a1ea14ccb38dd10d67f90ea14632",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gu.tga",
+      "hash": "bcf6cbe43abb4c38228de44d32cd8986",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gw.tga",
+      "hash": "8109f2e26677388819be95cb926cc58b",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/gy.tga",
+      "hash": "9fb5a48618f4a86848bd795bfbfe6c81",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/hk.tga",
+      "hash": "dc6ac2659a9d4eb92af29ea90395596c",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/hm.tga",
+      "hash": "4d18f9398fc0bd99e0cbc59c08cc3cbd",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/hn.tga",
+      "hash": "2997e0f15a3e4876ac3bcdb4a0d24bf9",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/hr.tga",
+      "hash": "f5820dba18fca28463ee04564cf1c5a2",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ht.tga",
+      "hash": "5bb3255d5f2958ea0c91742687c8f171",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/hu.tga",
+      "hash": "576618f05ef1b4841997e77e9c1e2c68",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/id.tga",
+      "hash": "9e01320fec2c0c107a31b6992609ab99",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ie.tga",
+      "hash": "0cb494c80242dcc8e8e9597fe6fc7058",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/il.tga",
+      "hash": "aebd4404d8f38439e8bfe3458391e896",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/in.tga",
+      "hash": "16a7a7615e773cf52dc2fd05fa1fabf4",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/io.tga",
+      "hash": "12ae41fc7f1f9cf7d99fcb95b973f38e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/iq.tga",
+      "hash": "3811bfe0405864035822eeb3e4e8007c",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ir.tga",
+      "hash": "2a024e7714e2284cc9184eb9a170b521",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/is.tga",
+      "hash": "a914297d06c32d2bd65702bce58bde42",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/it.tga",
+      "hash": "5f296efcc2a30b3c5df88627ae5df6e4",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/je.tga",
+      "hash": "cc8192080d122f0d9378549f0eab6eb1",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/jm.tga",
+      "hash": "44b97b4c12e4b289a7a313af2167fcff",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/jo.tga",
+      "hash": "456a8aba5d62b8c882bdf8b5944f966e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/jp.tga",
+      "hash": "0bf9cf03ad8d838a0ea2acd642ef2a19",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ke.tga",
+      "hash": "db78a428e27a40cf77deeab51a556afe",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/kg.tga",
+      "hash": "eff13d493773f4bfc6917e17b0b7c311",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/kh.tga",
+      "hash": "56431bfd47c17222521c2d3f3025cfc5",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ki.tga",
+      "hash": "82d669c18455260d7dc9d3a1e10352c0",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/km.tga",
+      "hash": "87243f7745f7080c2363ddaeb1db5c7b",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/kn.tga",
+      "hash": "b9d852ff70a1e6bc241ed20db6c3d8f1",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/kp.tga",
+      "hash": "0b881fa9df1a6ebc3c64981cd0d6dbc2",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/kr.tga",
+      "hash": "6222cf8917811439ceb61d916a7efb69",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/kw.tga",
+      "hash": "4506ecdeaf76e075222f419a61d30092",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ky.tga",
+      "hash": "cd8f1acaf088852969a0d5cb5f9bbddf",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/kz.tga",
+      "hash": "c627f1e136abc33dd6057a2816479674",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/la.tga",
+      "hash": "f9234274acfeb78c7f8558287d30dfd4",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/lb.tga",
+      "hash": "59f7580e1c023f6552f307a67ca10748",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/lc.tga",
+      "hash": "4787467375d7d168b51e8680bf6e710d",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/li.tga",
+      "hash": "97fae57fe769f05588bf5eabecc9fd62",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/lk.tga",
+      "hash": "850db338a0e285f0e5cf7613432f675c",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/lr.tga",
+      "hash": "40dcf261b2cbc7b3cff4195ae9d1c28b",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ls.tga",
+      "hash": "f384f0748db7f0464a5108533f433466",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/lt.tga",
+      "hash": "e4215ad6c834337071e7fe0ac77e67fd",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/lu.tga",
+      "hash": "58fb3202ab996fb4dcc37203886b54d5",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/lv.tga",
+      "hash": "8b74b8dfdf1f2fa67ab069119e43c6cd",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ly.tga",
+      "hash": "c4f466e3941eb6bb30e450df61d9dfa6",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ma.tga",
+      "hash": "7f38b90c05cd44a89e3f8a4634abc795",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mc.tga",
+      "hash": "59991eceb9377a0a1839d495121ad72e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/md.tga",
+      "hash": "013d74054672e3cd5804aea759fe83ee",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/me.tga",
+      "hash": "fe845cb09afcaf89fbafeeffb5956bad",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mg.tga",
+      "hash": "d31ed58240bfbfb39c8cceb2ba0694e5",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mh.tga",
+      "hash": "438ceb7cb2c846d2287b5c1af9516bbf",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mk.tga",
+      "hash": "370612cf0f2cb4f84ed752a3ce23759d",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ml.tga",
+      "hash": "dc40648cfa45beae74d703eb77ea2227",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mm.tga",
+      "hash": "cb5e09ad0be6334f8576160796da0247",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mn.tga",
+      "hash": "b1f9f2cfae18326ee08a0b0750f45d99",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mo.tga",
+      "hash": "55aee6f612458782806418df5b2a2ff1",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mp.tga",
+      "hash": "e195d95fc17287a4d6913613e4730575",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mq.tga",
+      "hash": "a69737fa408eeddea89e020e7d208e17",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mr.tga",
+      "hash": "cde95d2dc6db07e3a7d5bc481132c6dd",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ms.tga",
+      "hash": "5b08c60c5897c3923f1f66840b0acb72",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mt.tga",
+      "hash": "6de04f17313935012522d033c7a1eca5",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mu.tga",
+      "hash": "e89229f9f469d5d18b9d11389320ebe4",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mv.tga",
+      "hash": "9d7db8f0f58997f5e080d9eae5f4fd16",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mw.tga",
+      "hash": "82b3638f99cb0695d12733dfe14cc740",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mx.tga",
+      "hash": "c2e18a839f8764ca20fcb3df2f988fa4",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/my.tga",
+      "hash": "8d7a3e6489d344f0258d5a970fb92e21",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/mz.tga",
+      "hash": "6adf5c1cbff99eb5c9392257061da344",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/na.tga",
+      "hash": "676229c05c2b84c78cb0d41b1586a18e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/nc.tga",
+      "hash": "5185061e3caac9fa206d8c188271d981",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ne.tga",
+      "hash": "055f393b8962afb8b61854b1dd82c33b",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/nf.tga",
+      "hash": "1dc6058337592ba90a2f1ff2a4bd1ffa",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ng.tga",
+      "hash": "641e342602e57fc9f2d186970ddd3927",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ni.tga",
+      "hash": "3464713600b8f376d211724d7f66d06f",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/nl.tga",
+      "hash": "14f9f84cbd6bd6d2c10c4910d551de0b",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/no.tga",
+      "hash": "d2987fe8876cd385bee4435ef2f0da62",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/np.tga",
+      "hash": "54ad65fe500146285f96ee2c27b1f2f1",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/nr.tga",
+      "hash": "3083d658d8ab05f56b079b67bac03d2e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/nu.tga",
+      "hash": "aa447a1fc28452a3d163f1fe8eaf7119",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/nz.tga",
+      "hash": "798e816ee377492710aa689fef6a3a4b",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/om.tga",
+      "hash": "c2bed70ffb4d04429406d32562971d9b",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/pa.tga",
+      "hash": "aea0419c101b94a39990ca4cd5c18612",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/pe.tga",
+      "hash": "f4b2699857620566fea1f85f31c7f64e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/pf.tga",
+      "hash": "2a9a23283bc2987afd49638e9b56d55c",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/pg.tga",
+      "hash": "5a3287177812cbfa577fbd491cbd1c1f",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ph.tga",
+      "hash": "b16ba42aae49867fc2f88a1f95b3d30c",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/pk.tga",
+      "hash": "94f4001c82a876b39205e6197c80c953",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/pl.tga",
+      "hash": "ff562f1022fb7dbca5fc24c06dafe9c4",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/pm.tga",
+      "hash": "11f25860ff91310555acd1749989fc27",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/pn.tga",
+      "hash": "6f9a982d7afb1d3ddd17c6f3b6700332",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/pr.tga",
+      "hash": "8af418b72590dd919b7a63edfeb00716",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ps.tga",
+      "hash": "7350bfcfbd7f48f462e254de194e68f8",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/pt.tga",
+      "hash": "8a0cd3bbb79e77bce6c0e264b471bd93",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/pw.tga",
+      "hash": "645bfbf67cd11fbfa6c50cdfb23d275e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/py.tga",
+      "hash": "376e0f755d5a2fc9b647b75e29a284b0",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/qa.tga",
+      "hash": "fa6958a9072048add0d4e369158320bb",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/re.tga",
+      "hash": "ad4be3214e4ef8a11d4186ab8b954922",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ro.tga",
+      "hash": "dbf69e5efe9f1c8fb329e6ab0f1921ee",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/rs.tga",
+      "hash": "9ce43e2df2064328e6be0c2b2c167bf4",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ru.tga",
+      "hash": "a6f9d006c9b1e9f8ee4318c1568eb91d",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/rw.tga",
+      "hash": "a6a5f036c606a9ed097617b7f83ac4cc",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sa.tga",
+      "hash": "ccbbcefe9255a60a5cbd207d4c6f6749",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sb.tga",
+      "hash": "365eb3bac67b85c18730e1224961a635",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sc.tga",
+      "hash": "cd6c66f09b12ba388a3a9eb8c6017a71",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sd.tga",
+      "hash": "3f2567287d4ec19d9d73eabe2176c516",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/se.tga",
+      "hash": "bfddbd755ae15cea6e07c3add0ca4ea8",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sg.tga",
+      "hash": "d71482753359295dead8e5dc894e9bf5",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sh.tga",
+      "hash": "121369646ca0ecf0b8901ac64a78c2fc",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/si.tga",
+      "hash": "a68ef4643de547f91315901af2b01f6a",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sj.tga",
+      "hash": "d2987fe8876cd385bee4435ef2f0da62",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sk.tga",
+      "hash": "4ea979759e8fa78074151150b42e5704",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sl.tga",
+      "hash": "3dc84be45378a45bb1d4bd5742883fc9",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sm.tga",
+      "hash": "7f33444664485363ce37f794b6e839ea",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sn.tga",
+      "hash": "22172ca5f426cb472ad4dc98ad858395",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/so.tga",
+      "hash": "f8ce08e56ab98e4c0b45ff485dbc4ed6",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sr.tga",
+      "hash": "0e4f096797987ea1a68520c0edada18d",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/st.tga",
+      "hash": "cf0d8484e6f03fdec3f914b61ed6b9e4",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sv.tga",
+      "hash": "b2832258e8f53e5ead3b97448c06421f",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sy.tga",
+      "hash": "a32d15082fa795e89ae5e95604d2bf52",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/sz.tga",
+      "hash": "94df98d0c52294908935e69fd5510b3d",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/tc.tga",
+      "hash": "319a8cec1d337df842473e095e737de9",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/td.tga",
+      "hash": "400ccae42cc7399094149778f23cb794",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/tf.tga",
+      "hash": "5a89d6d88b62ee51385ef9cbb323ba7e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/tg.tga",
+      "hash": "b8e33cbbfcbc284e247f628c70e3c862",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/th.tga",
+      "hash": "8a3c8336a258d948a2c8c019a55cb001",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/tj.tga",
+      "hash": "9a635fe9e851e4b0c99daab087f97500",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/tk.tga",
+      "hash": "8523f2edd931a0194c681a4bc03b8147",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/tl.tga",
+      "hash": "ecae3bb801535ccad167b8ebff521950",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/tm.tga",
+      "hash": "2924bbd591b56ad2d1f43f8e4f69fb86",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/tn.tga",
+      "hash": "8898c595013a4e5d0b4512c1abf52ef6",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/to.tga",
+      "hash": "3ef20a917b70a8c821d169cafe538d41",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/tr.tga",
+      "hash": "aecc78c0af043831f64ba4e39ed1ea05",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/tt.tga",
+      "hash": "96f15cf56cbcde5a33065ad8159a2b8a",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/tv.tga",
+      "hash": "638e6aac5f50361d2d6afaf9163e6edc",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/tw.tga",
+      "hash": "b0fdb78352603bc74accd2639cde1c71",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/tz.tga",
+      "hash": "3f8222af0dd550ccd406e4e7abf2439e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ua.tga",
+      "hash": "e08e03241bf7890c06317dab27677576",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ug.tga",
+      "hash": "876099dce46a8f4ef8d9c25fb860b66c",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/um.tga",
+      "hash": "67dd6479a41e9a8fa2bb966760e60141",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/us.tga",
+      "hash": "bf0af5b2175c87a3413456fbb8177e24",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/uy.tga",
+      "hash": "5ae7781453f6d8758039fdf83616dbf1",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/uz.tga",
+      "hash": "c7b3cd411539ccc173050f29964ad1f6",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/va.tga",
+      "hash": "2304f1efc406dd93324c777552680661",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/vc.tga",
+      "hash": "984aa332a562797d5b47ec5947e1c0fe",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ve.tga",
+      "hash": "b491a8f86805ee0dcd557f1bc8892c07",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/vg.tga",
+      "hash": "1523967127be9e78120890c86fc8b021",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/vi.tga",
+      "hash": "a0e0d5043dd31e61b5352815c7fa5d9a",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/vn.tga",
+      "hash": "594ff607455ee985de165044a6095e3e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/vu.tga",
+      "hash": "dbafd27b31ebef21114742ed97bbcc8e",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/wf.tga",
+      "hash": "7ecd016505bb1bffde5caafeeeb0458f",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ws.tga",
+      "hash": "90d3e9a5f2d3d1055defa7f677658df0",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/ye.tga",
+      "hash": "6192894be7441ccbe9c9eaa8c4da40c7",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/yt.tga",
+      "hash": "62ef0fb0314fadb37166938287b15a9d",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/za.tga",
+      "hash": "d930eb00951606e6b8fb486390f63817",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/zm.tga",
+      "hash": "8e39d896187c4c9398208c5cae9a0835",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/flags/zw.tga",
+      "hash": "85caaebfe9eefe7d34f4e627d24177c7",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/game_mode_rules.json",
+      "hash": "b6e70571d8aec847fafb4ba9e73583a3",
+      "size": 3644
+    },
+    {
+      "filename": "platform/servers/geoip_country.mmdb",
+      "hash": "d4c12ea6949d09b6a975084ea405d51c",
+      "size": 8340464
+    },
+    {
+      "filename": "platform/servers/geoip_country_notice.txt",
+      "hash": "a5a64286324b54de8e3c67cf4b91ba80",
+      "size": 944
+    },
+    {
+      "filename": "platform/servers/icon_country_column.tga",
+      "hash": "1043467bea7a255ea9c4c01ad48e33dc",
+      "size": 1068
+    },
+    {
+      "filename": "platform/servers/InternetGamesPage.res",
+      "hash": "461b7b6ce6f906395e89553adc1a540e",
+      "size": 7302
+    },
+    {
+      "filename": "platform/servers/InternetGamesPage_Filters.res",
+      "hash": "18a118b2a41aa1c34232887e1bf6876d",
+      "size": 9105
+    },
+    {
+      "filename": "platform/servers/serverbrowser_turkish.txt",
+      "hash": "2c96ff0f9e6d6418e05b43e95fe19b4b",
+      "size": 19052
+    },
+    {
+      "filename": "steam_api.dll",
+      "hash": "1dedd1b8fc91d799b67180fb8212eb1d",
+      "size": 99328
+    },
+    {
+      "filename": "steam_api_orig.dll",
+      "hash": "cc3d1ca6401e2ab106733c7bd7489cad",
+      "size": 103920
+    },
+    {
+      "filename": "vgui2.dll",
+      "hash": "9df917de88457f225ddda68b85ccadec",
+      "size": 388096
+    }
+  ]
+}
