@@ -1,21 +1,26 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "hostname": "https://raw.githubusercontent.com/ygtkms/klascs-update/main/files/",
   "files": [
     {
       "filename": "cs.exe",
-      "hash": "7199b135fdc42577745927910b1946c6",
-      "size": 2814464
+      "hash": "7b335ca14bd9099e63cacf1a161f4c02",
+      "size": 2861568
     },
     {
       "filename": "cstrike/cl_dlls/client_mini.dll",
-      "hash": "68b8648c23a7975b9af8b0940d182ed6",
+      "hash": "b7924beb72e8fe11a149554318229f26",
       "size": 307712
     },
     {
       "filename": "cstrike/cl_dlls/GameUI.dll",
-      "hash": "49f79b0c5aa7d76eadaded4fa0c0de3f",
+      "hash": "bdcf7d69cbc56f535385159e3d91d34d",
       "size": 2193408
+    },
+    {
+      "filename": "cstrike/game.ico",
+      "hash": "0205b8c080456b10d0c1bc1e87718932",
+      "size": 156525
     },
     {
       "filename": "cstrike/gfx/shell/kb_act.lst",
@@ -249,22 +254,22 @@
     },
     {
       "filename": "FileSystem_Proxy.dll",
-      "hash": "bf1f4af30525f9d810738eb68b272d33",
+      "hash": "77d7b1f8d23a22054ee54bc7e399880c",
       "size": 133632
     },
     {
       "filename": "klascs_build.txt",
-      "hash": "89920a6093ea5072df3c88fd3925e8be",
+      "hash": "15804f7f0a7ec65c43255e60733d6133",
       "size": 42
     },
     {
       "filename": "next_engine_mini.dll",
-      "hash": "c23b5ca8701bb4e314b662206686e2f2",
+      "hash": "abcbda813bf441d45ad53f4a0bb6cd32",
       "size": 2402816
     },
     {
       "filename": "nitro_api2.dll",
-      "hash": "db60948c2a387ad96360ca73679e1d95",
+      "hash": "799a92e1cf098e25c3d2d9f7bbe93d42",
       "size": 3562496
     },
     {
@@ -1549,12 +1554,12 @@
     },
     {
       "filename": "steam_api.dll",
-      "hash": "bb2fafa0fab389791b7d584e9320ad0a",
+      "hash": "13fc4ec9b63604467b65769aaedef486",
       "size": 99328
     },
     {
       "filename": "vgui2.dll",
-      "hash": "4ecb5af1dbfd4830943085e76e8a32d2",
+      "hash": "9dbe5b5cd65d1b0600233810eba2912a",
       "size": 388096
     }
   ]
