@@ -1,20 +1,20 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "hostname": "https://raw.githubusercontent.com/ygtkms/klascs-update/main/files/",
   "files": [
     {
       "filename": "cs.exe",
-      "hash": "958366d4d1b8a4b390493f28de1fe433",
+      "hash": "af683b98b0cd37b7f88e49c0c1cd1fb1",
       "size": 2862080
     },
     {
       "filename": "cstrike/cl_dlls/client_mini.dll",
-      "hash": "d7354142ce10c4a6497766aa5c7c6a3b",
+      "hash": "feb5a1f12aa1dc1625179a0d7180698a",
       "size": 307712
     },
     {
       "filename": "cstrike/cl_dlls/GameUI.dll",
-      "hash": "0aae3d720679ac140fbefefabd051a85",
+      "hash": "71aee7320e75d7c94090fc6a8b31bf70",
       "size": 2193408
     },
     {
@@ -259,7 +259,7 @@
     },
     {
       "filename": "FileSystem_Proxy.dll",
-      "hash": "54d0d08286a4d9bf73aeae2a379deb9e",
+      "hash": "0358bab747d6b027bf40868657ad1140",
       "size": 133632
     },
     {
@@ -294,17 +294,17 @@
     },
     {
       "filename": "klascs_build.txt",
-      "hash": "8b7ede623e08d85897df68a9f417daf3",
+      "hash": "bafb0fe5ff048389b516ffae83156681",
       "size": 42
     },
     {
       "filename": "next_engine_mini.dll",
-      "hash": "f5d46aa1a8a9ba210c41e0a2b90d5671",
-      "size": 2402816
+      "hash": "a9b84b7af796787971ed0c189a6f9049",
+      "size": 2442752
     },
     {
       "filename": "nitro_api2.dll",
-      "hash": "e5e0a44bdc47bc7291742437b8fada75",
+      "hash": "6a56bf1764b7c090fbac5bb957c54989",
       "size": 3562496
     },
     {
@@ -1589,17 +1589,17 @@
     },
     {
       "filename": "steam_api.dll",
-      "hash": "9d3c3edde29f14c28444e095572fd5a7",
+      "hash": "a9633314de4d12fc8f35cab1ca1cc3b6",
       "size": 99328
     },
     {
       "filename": "steam_api_bridge.dll",
-      "hash": "5122b09d2138d112587e8056ba83507c",
-      "size": 148480
+      "hash": "37d5cdafda1ad8f36125f6f0accdb080",
+      "size": 116224
     },
     {
       "filename": "vgui2.dll",
-      "hash": "84e68657459d2d967c5b342d7812e172",
+      "hash": "a7d58268e0c8e2457b1fe7e4eef3e1b7",
       "size": 388096
     }
   ]
