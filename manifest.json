@@ -1,20 +1,20 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "hostname": "https://raw.githubusercontent.com/ygtkms/klascs-update/main/files/",
   "files": [
     {
       "filename": "cs.exe",
-      "hash": "d38beced5eebbfff57dce0186b37b3ca",
+      "hash": "c51608c6cbba11ecd15604455826b38c",
       "size": 2862080
     },
     {
       "filename": "cstrike/cl_dlls/client_mini.dll",
-      "hash": "3a49af210192f29d924df6cb5a2c010c",
-      "size": 308224
+      "hash": "e6c18d69d3a356e17ec88121ce75fa67",
+      "size": 308736
     },
     {
       "filename": "cstrike/cl_dlls/GameUI.dll",
-      "hash": "3edce28a90709fbee324fd3d2e019722",
+      "hash": "8a018d3c930af12a9bdbc69f821f778b",
       "size": 2193408
     },
     {
@@ -259,7 +259,7 @@
     },
     {
       "filename": "FileSystem_Proxy.dll",
-      "hash": "dedbffa2e88f0cd9ec5f62899d734330",
+      "hash": "6128c3036763a0fc76232d2c03094de6",
       "size": 133632
     },
     {
@@ -294,17 +294,17 @@
     },
     {
       "filename": "klascs_build.txt",
-      "hash": "c8738c27b10fbe51ede9a6f9a341775c",
+      "hash": "9a298a6ea7ba70fd8459e6dda255f1fe",
       "size": 42
     },
     {
       "filename": "next_engine_mini.dll",
-      "hash": "2df6538dd632c999e8d71a701e211a50",
+      "hash": "daf3f6908ac0fa92234d5c9e456d52cf",
       "size": 2457088
     },
     {
       "filename": "nitro_api2.dll",
-      "hash": "5338a96952fa6231735a09cb85c78379",
+      "hash": "2c975f7e487e1abeec19006c86893f72",
       "size": 3562496
     },
     {
@@ -1589,7 +1589,7 @@
     },
     {
       "filename": "steam_api.dll",
-      "hash": "2982f8e354b760df7b8765b3ad141ed2",
+      "hash": "04917b5acd43a4a7c611fe67a186f07c",
       "size": 99328
     },
     {
@@ -1599,7 +1599,7 @@
     },
     {
       "filename": "vgui2.dll",
-      "hash": "c58763d20cf8f6cca28e34a29d70d7cb",
+      "hash": "1385ebbf5c872ef2d68f84584230196a",
       "size": 388096
     }
   ]
